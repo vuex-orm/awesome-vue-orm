@@ -8,3 +8,9 @@
 ## Awesome Vuex-ORM
 
 > A curated list of awesome things related to Vuex-ORM
+
+
+## Persistence Plugins
+
+- [GraphQL](https://github.com/vuex-orm/plugin-graphql)
+- [REST](https://github.com/vuex-orm/plugin-axios)
