@@ -27,6 +27,7 @@
 - [Vuex ORM Examples](https://github.com/vuex-orm/vuex-orm-examples) - The example application to demonstrate the use case of the Vuex ORM.
 - [Vuex ORM Examples Nuxt](https://github.com/vuex-orm/vuex-orm-examples-nuxt) - The example Nuxt application to demonstrate the use case of the Vuex ORM.
 - [Vuex ORM Axios Example Nuxt](https://github.com/guillaumebriday/todolist-frontend-nuxt) - Real world Nuxt application with Vuex ORM and its Axios plugin.
+- [Vuex ORM TypeScript Examples](https://github.com/vuex-orm/vuex-orm-examples-ts) - The example application written in TypeScript to demonstrate the use case of the Vuex ORM with type declarations.
 
 ## Videos
 
